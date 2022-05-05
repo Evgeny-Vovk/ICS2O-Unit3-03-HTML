@@ -3,7 +3,9 @@
 // This file contains the JS functions for index.html
 
 'use strict'
-/*** This function calculates volume of a pyramid.***/
+/**
+* This function calculates volume of a pyramid.
+*/
 function calculate() {
   
   // input
